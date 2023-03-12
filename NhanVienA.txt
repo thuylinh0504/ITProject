@@ -13,3 +13,5 @@ Dung GIT GUI here.
 Dung Source Tree
 
 .hahah
+
+Dc them vao ben nhanh C
