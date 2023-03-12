@@ -13,3 +13,5 @@ Dung GIT GUI here.
 Dung Source Tree
 
 .hahah
+
+Noi dung them moi ben nhanh main
